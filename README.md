@@ -15,4 +15,4 @@ The green symbols can be achieved by pressing <kbd>Alt Gr</kbd>, the red symbols
 Use the `setup.exe` in the `de_xtnd` folder.
 
 ## Edit
-If you want to edit my keyboard layout, download the MSKLC and modif the `.klc` file.
+If you want to edit my keyboard layout, download the MSKLC and modify the `.klc` file.
